@@ -71,4 +71,11 @@ ScenerYOne/Stress_Classification_TensorflowLSTM/
   cd Stress_Classification_TensorflowLSTM
   pip install -r requirements.txt
   ```
+### 3.Usage
+  Run the training script (or open the Notebook):
+  ```python
+  python src/train.py --epochs 20 --batch_size 32
+  ```
 
+## Related Repositories
+ - Phase 1: Data Cleaning & Preprocessing: ScenerYOne/Preprocess_Datamodel
