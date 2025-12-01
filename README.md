@@ -41,10 +41,10 @@ _________________________________________________________________
 =================================================================
 ```
 ## Tech Stack
-  - **Framework:**TensorFlow 2.x, Keras
-  - **Language**Python 3.x
-  - **Data Handling:**NumPy, Pandas
-  - **Visualization:**Matplotlib, Seaborn (for Confusion Matrix & Loss Curves)
+  - Framework: TensorFlow 2.x, Keras
+  - Language: Python 3.x
+  - Data Handling: NumPy, Pandas
+  - *Visualization: Matplotlib, Seaborn (for Confusion Matrix & Loss Curves)
 
 ## Repository Structure
 
