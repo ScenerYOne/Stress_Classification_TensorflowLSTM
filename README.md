@@ -1,10 +1,10 @@
-# Stress Classification using TensorFlow LSTM 🧠
+# Stress Classification using TensorFlow LSTM 
 
 > **Repository:** ScenerYOne/Stress_Classification_TensorflowLSTM
 > **Phase:** Modeling & Evaluation
 > **Preceding Phase:** [ScenerYOne/Preprocess_Datamodel](https://github.com/ScenerYOne/Preprocess_Datamodel)
 
-## 📖 Project Context
+##  Project Context
 
 This project represents the **Modeling Phase** of the Stress Classification pipeline. It is designed to ingest preprocessed, normalized, and structured data outputs from the [Preprocess_Datamodel](https://github.com/ScenerYOne/Preprocess_Datamodel) repository to train a Deep Learning model.
 
