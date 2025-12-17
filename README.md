@@ -89,4 +89,9 @@ ScenerYOne/Stress_Classification_TensorflowLSTM/
   - confusion_matrix_{id}.png: To visually inspect which classes are being confused (e.g., distinguishing between 'High' and 'Medium' stress).
  
 ## Related Repositories
- - Phase 1: Data Cleaning & Preprocessing: ScenerYOne/Preprocess_Datamodel
+ - Phase 1: Data Cleaning & Preprocessing: [ScenerYOne/Preprocess_Datamodel](https://github.com/ScenerYOne/Preprocess_Datamodel)
+
+## Senior Project
+This repository contains my senior project.  
+You can view a brief project scope and overview here:  
+🔗 https://linkbio.co/wu-senior-care-support
