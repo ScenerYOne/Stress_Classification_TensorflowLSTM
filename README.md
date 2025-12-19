@@ -2,11 +2,11 @@
 
 > **Repository:** ScenerYOne/Stress_Classification_TensorflowLSTM
 > **Phase:** Modeling & Evaluation + Real-time Deployment
-> **Preceding Phase:** [https://github.com/ScenerYOne/Preprocess_Datamodel](https://github.com/ScenerYOne/Stress-Detection-Project-EDA-PPG-Signal-Preprocessing.git)
+> **Preceding Phase:** [ScenerYOne/Stress-Detection-Project-EDA-PPG-Signal-Preprocessing](https://github.com/ScenerYOne/Stress-Detection-Project-EDA-PPG-Signal-Preprocessing)
 
 ##  Project Context
 
-This project represents the **Modeling Phase** of the Stress Classification pipeline. It is designed to ingest preprocessed, normalized, and structured data outputs from the [Preprocess_Datamodel](https://github.com/ScenerYOne/Stress-Detection-Project-EDA-PPG-Signal-Preprocessing.git) repository to train a Deep Learning model.
+This project represents the **Modeling Phase** of the Stress Classification pipeline. It is designed to ingest preprocessed, normalized, and structured data outputs from the [ScenerYOne/Stress-Detection-Project-EDA-PPG-Signal-Preprocessing](https://github.com/ScenerYOne/Stress-Detection-Project-EDA-PPG-Signal-Preprocessing) repository to train a Deep Learning model.
 
 **Goal:** To detect and classify stress levels from sequential physiological data using **Long Short-Term Memory (LSTM)** networks, leveraging their ability to learn long-term dependencies in time-series sequences.
 
