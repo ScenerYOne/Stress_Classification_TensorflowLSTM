@@ -154,7 +154,7 @@ Emotibit Device → Azure IoT Hub → Azure Function (Preprocessor)
 - Preprocessed features are fed into the trained LSTM model via Model API
 - Model outputs stress classification (Low/Medium/High) with confidence scores
 - Prediction results are stored in **stress_predictions** collection
-- Results are immediately pushed to the frontend dashboard via WebSocket
+- Results are immediately pushed to the frontend dashboard via railway
   
 #### **3. Real-time Dashboard (24/7 Monitoring)**
 
@@ -167,7 +167,7 @@ Emotibit Device → Azure IoT Hub → Azure Function (Preprocessor)
 **Real-time Update Mechanism:**
 - Dashboard automatically refreshes every 5 seconds for live stress levels
 - Historical data updates every 1 minute
-- WebSocket connection ensures instant updates when new predictions arrive
+- railway connection ensures instant updates when new predictions arrive
 - MongoDB Change Streams trigger real-time data broadcast to all connected clients
 
 
