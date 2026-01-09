@@ -1,11 +1,10 @@
-# Stress Classification using TensorFlow LSTM 
-
+# An AI-driven Stress Detection System using Physiological Signals 
 > **Repository:** ScenerYOne/Stress_Classification_TensorflowLSTM
 > **Phase:** Modeling & Evaluation + Real-time Deployment
 > **Preceding Phase:** [ScenerYOne/Stress-Detection-Project-EDA-PPG-Signal-Preprocessing](https://github.com/ScenerYOne/Stress-Detection-Project-EDA-PPG-Signal-Preprocessing)
 
 ##  Project Context
-
+Stress Classification using TensorFlow LSTM 
 This project represents the **Modeling Phase** of the Stress Classification pipeline. It is designed to ingest preprocessed, normalized, and structured data outputs from the [ScenerYOne/Stress-Detection-Project-EDA-PPG-Signal-Preprocessing](https://github.com/ScenerYOne/Stress-Detection-Project-EDA-PPG-Signal-Preprocessing) repository to train a Deep Learning model.
 
 **Goal:** To detect and classify stress levels from sequential physiological data using **Long Short-Term Memory (LSTM)** networks, leveraging their ability to learn long-term dependencies in time-series sequences.
